@@ -1,7 +1,5 @@
 # Saliency_Based_Guided_Model_for_Object_Detection
 
-# Saliency-Based Guided Model for Object Detection in Camouflage Environments
-
 ## Overview
 This project explores object detection in camouflage environments by incorporating saliency maps to enhance detection accuracy. We compare traditional object detection models (YOLO, Faster R-CNN, SSD) with a saliency-based guided model to improve performance in challenging scenarios.
 
